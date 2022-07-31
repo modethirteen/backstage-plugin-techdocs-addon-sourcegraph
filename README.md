@@ -1,9 +1,10 @@
-# Backstage TechDocs Sourcegraph addon
+# Backstage TechDocs Addon for Sourcegraph
 
-The `backstage-plugin-techdocs-addon-sourcegraph` extends [Sourcegraph](https://about.sourcegraph.com/) capabilities into Backstage TechDocs. This plugin is a [Backstage TechDocs Addon](https://backstage.io/docs/features/techdocs/addons), which requires Backstage v1.2+.
+A module that extends Sourcegraph capabilities into Backstage TechDocs.
 
 ## Getting started
 
+This module is a [Backstage TechDocs Addon](https://backstage.io/docs/features/techdocs/addons) plugin, which requires Backstage v1.2+.
 The plugin provides a component for [embedding Sourcegraph Notebooks](https://docs.sourcegraph.com/notebooks/notebook-embedding). Follow [the official documentation for TechDocs Addons](https://backstage.io/docs/features/techdocs/addons#installing-and-using-addons) to use this addon.
 
 ```typescript jsx
@@ -40,4 +41,5 @@ const callback = ({
 
 ## Further resources
 
+- [About Sourcegraph](https://about.sourcegraph.com/)
 - [Sourcegraph Notebooks](https://docs.sourcegraph.com/notebooks)
