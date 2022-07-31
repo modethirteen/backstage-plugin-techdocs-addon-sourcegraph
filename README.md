@@ -1,5 +1,7 @@
 # Backstage TechDocs Addon for Sourcegraph
 
+[![npm version](https://badge.fury.io/js/backstage-plugin-techdocs-addon-sourcegraph.svg)](https://badge.fury.io/js/backstage-plugin-techdocs-addon-sourcegraph)
+
 A module that extends Sourcegraph capabilities into Backstage TechDocs.
 
 ## Getting started
